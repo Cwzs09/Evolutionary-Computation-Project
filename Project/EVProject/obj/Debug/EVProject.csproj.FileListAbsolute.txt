@@ -1,0 +1,11 @@
+E:\EVProject\EVProject\obj\Debug\EVProject.csprojResolveAssemblyReference.cache
+E:\EVProject\EVProject\obj\Debug\EVProject.MainForm.resources
+E:\EVProject\EVProject\obj\Debug\EVProject.Properties.Resources.resources
+E:\EVProject\EVProject\obj\Debug\EVProject.csproj.GenerateResource.Cache
+E:\EVProject\EVProject\obj\Debug\EVProject.csproj.CoreCompileInputs.cache
+E:\EVProject\EVProject\bin\Debug\EVProject.exe.config
+E:\EVProject\EVProject\bin\Debug\EVProject.exe
+E:\EVProject\EVProject\bin\Debug\EVProject.pdb
+E:\EVProject\EVProject\obj\Debug\EVProject.exe
+E:\EVProject\EVProject\obj\Debug\EVProject.pdb
+E:\EVProject\EVProject\obj\Debug\EVProject.Board1.resources
